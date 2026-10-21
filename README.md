@@ -1,6 +1,6 @@
 # Hi, I'm Konstantina,
 
-Senior Full-Stack Engineer based in the Netherlands. I build distributed systems where correctness matters — most recently a settlement engine for a European central bank's DLT initiative, where securities and cash settle atomically.
+Senior Full-Stack Engineer based in the Netherlands.
 
 **What I work with**
 
