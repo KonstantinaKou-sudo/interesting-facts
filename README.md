@@ -12,8 +12,8 @@ Senior Full-Stack Engineer based in the Netherlands. I build distributed systems
 
 **About me**
 
-- 8+ years at IBM, taking platforms from proof of concept to production in finance, energy, government and supply chain
+- 8+ years as a software engingeer, taking platforms from proof of concept to production in finance, energy, government and supply chain
 - Lead a service line of ~50 engineers across AI, Data and Digital Product Engineering, while staying hands-on in code
-- Most of my production work lives in private client repositories — happy to walk through code and design in a conversation
+- Most of my production work lives in private client repositories happy to walk through code and design in a conversation
 
 📫 [LinkedIn](https://www.linkedin.com/in/k-koutsogiannopoulou/) · konkoutsogiannopoulou@gmail.com
